@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Developer FullStack [Backend & Frontend] | JavaScript | CSS | HTML | Reactjs | SQL | Nodejs. | inglés B1-C1**
 
-- 💬 Ask me about **Hello friends!! 👋👋 My name is Federica, I live in Argentina and I am on my way to finish the Full Stack Web Developer career👩🎓!!! This openness to new technologies motivates me to learn something new every day. I take various courses that allow me to increase my skills, working and incorporating new knowledge. my skills ; HTML. CSS. REACT. JavaScript . NODE. Postgres SQL. I have also studied at the University of Art (UNLP) to give color and creativity to all my projects ✍ 🤩 🎨🎆. I consider myself a very happy, enthusiastic person, eager to grow; contribute my knowledge creativity and commitment.**
+- 💬 Ask me about **Hello friends!! 👋👋.**
 
 - 📫 How to reach me **fedderica.bartoli@gmail.com**
 
