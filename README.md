@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federica</h1>
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 
-- 🌱 I’m currently learning ** Developer FullStack [Backend & Frontend] | JavaScript | CSS | HTML | React js |React Native| Angular | Typescript | Redux | SQL | Node.js| Git | GitHub | inglés B1-C1 | **
+- 🌱 I’m currently learning **  [Backend & Frontend] | JavaScript | CSS | HTML | React js |React Native| Angular | Typescript | Redux | SQL | Node.js| Git | GitHub | inglés B1-C1 | **
 
 - 💬 Ask me about ** Hello! My name is Federica, I have experience in different technologies; between them [Backend & Frontend] | JavaScript | CSS | HTML | Reactjs | SQL | Nodejs. | also my level of english B1-C1, I continue training and exploring technology day by day! 🎓 **
 
