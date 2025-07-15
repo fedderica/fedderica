@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **  [Backend & Frontend] | JavaScript | CSS | HTML | React js |React Native| Angular | Typescript | Redux | SQL | Node.js| Git | GitHub | inglés C1 | **
 
-- 💬 Ask me about ** Hello! My name is Federica, I have experience in different technologies; between them [Backend & Frontend] | JavaScript | CSS | HTML | Reactjs | SQL | Nodejs. | also my level of english B1-C1, I continue training and exploring technology day by day! 🎓 **
+- 💬 Ask me about ** Hello! My name is Federica, I have experience in different technologies; between them [Backend & Frontend] | JavaScript | CSS | HTML | Reactjs | SQL | Nodejs. | also my level of english C1, I continue training and exploring technology day by day! 🎓 **
 
 - 📫 How to reach me **fedderica.bartoli@gmail.com**
 
