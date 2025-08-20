@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federica</h1>
-<h3 align="center">A passionate developer full stack from Argentina</h3>
+<h3 align="center">Full Stack Developer | JavaScript, SQL, e-Commerce, Cybersecurity & IT Support | Currently studying Software Testing at Universidad Tecnológicafrom  from Argentina</h3>
 
 - 🌱 I’m currently focused on deepening my expertise in:
 Full Stack Development | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | React.js | React Native | Angular | Redux | Node.js | Express.js | SQL (PostgreSQL / MySQL) | Git & GitHub | Cybersecurity | Software Testing (UTN) | English C1
