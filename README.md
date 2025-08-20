@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Federica</h1>
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 
-- 🌱 I’m currently learning **  [Backend & Frontend] | JavaScript | CSS | HTML | React js |React Native| Angular | Typescript | Redux | SQL | Node.js| Git | GitHub | inglés C1 | **
+- 🌱 I’m currently focused on deepening my expertise in:
+Full Stack Development | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | React.js | React Native | Angular | Redux | Node.js | Express.js | SQL (PostgreSQL / MySQL) | Git & GitHub | Cybersecurity | Software Testing (UTN) | English C1
 
-- 💬 Ask me about ** Hello! My name is Federica, I have experience in different technologies; between them [Backend & Frontend] | JavaScript | CSS | HTML | Reactjs | SQL | Nodejs. | also my level of english C1, I continue training and exploring technology day by day! 🎓 **
+💬 Ask me about:
+Hi, I’m Federica Bartoli, a Full Stack Developer with technical training and hands-on experience in both frontend and backend technologies. I specialize in building scalable, maintainable, and secure web applications.
 
-- 📫 How to reach me **fedderica.bartoli@gmail.com**
+Currently, I’m pursuing professional certification in Software Testing and Cybersecurity at the Universidad Tecnológica Nacional (UTN). My focus is on:
+
+Cybersecurity: Applying secure coding practices, identifying vulnerabilities aligned with OWASP Top 10, and integrating security into the SDLC.
+
+Software Testing: Manual and automated testing (Jest, Testing Library), with emphasis on functional, integration, and regression testing.
+
+Version Control & CI/CD Basics: Experienced in Git workflows, code review, branching strategies, and collaborative development on GitHub.
+
+I work confidently in bilingual (Spanish/English) teams, with an English level C1.
+
+ 📫 How to reach me **fedderica.bartoli@gmail.com**
+
+📄 Explore my code and technical projects:
+🔗 github.com/fedderica **I continue training and exploring technology day by day! 🎓**
+
 
 - 📄 Know about my experiences [https://github.com/fedderica?tab=repositories](https://github.com/fedderica?tab=repositories)
 
