@@ -4,8 +4,7 @@
 - 🌱 I’m currently focused on deepening my expertise in:
 Full Stack Development | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | React.js | React Native | Angular | Redux | Node.js | Express.js | SQL (PostgreSQL / MySQL) | Git & GitHub | Cybersecurity | Software Testing (UTN) | English C1
 
-💬 Ask me about:
-Hi, I’m Federica Bartoli, a Full Stack Developer with technical training and hands-on experience in both frontend and backend technologies. I specialize in building scalable, maintainable, and secure web applications.
+💬 Hi, I’m Federica Bartoli, a Full Stack Developer with technical training and hands-on experience in both frontend and backend technologies. I specialize in building scalable, maintainable, and secure web applications.
 
 Currently, I’m pursuing professional certification in Software Testing and Cybersecurity at the Universidad Tecnológica Nacional (UTN). My focus is on:
 
